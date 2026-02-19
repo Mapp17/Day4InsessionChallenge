@@ -16,7 +16,7 @@ function useStockPrice()
 
   return (
     <header>
-      <h1>Calculator Dashboard</h1>
+      <h1>Stock Dashboard</h1>
     </header>
   );
 }
